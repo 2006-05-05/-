@@ -9,28 +9,24 @@
 ├── requirements.txt      # Python 依赖管理
 └── README.md             # 项目说明文档
 
-
 ## 环境依赖安装
+
 ### 1. Python 环境
 安装 Python 所需依赖：
-```bash
 pip install -r requirements.txt
 依赖包含：`requests`、`execjs`
 
 运行 JS 脚本**必须先安装依赖**：
-```bash
 npm install
 依赖包含：`crypto-js`
 
 ## 运行方式
 
 ### 运行 Python 爬虫
-```bash
 cd cases
 python 对应脚本名.py
 
 ### 运行 Node.js 爬虫
-```bash
 cd cases
 node 对应脚本名.js
 
