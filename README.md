@@ -24,10 +24,12 @@ npm install
 
 ### 运行 Python 爬虫
 cd cases
+
 python 对应脚本名.py
 
 ### 运行 Node.js 爬虫
 cd cases
+
 node 对应脚本名.js
 
 ## 项目内容说明
