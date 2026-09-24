@@ -1,0 +1,14 @@
+{
+    "name": "ma-shang-pa",
+    "version": "1.0.0",
+    "description": "爬虫学习练习项目，Python + Node.js双版本实现，包含JS逆向CryptoJS加密案例",
+    "main": "cases/index.js",
+    "scripts": {},
+    "dependencies": {
+      "crypto-js": "^4.2.0"
+    },
+    "keywords": ["spider", "爬虫", "js逆向", "crypto-js"],
+    "author": "",
+    "license": "MIT"
+  }
+  
